@@ -1,0 +1,16 @@
+{
+  "name": "customer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mohamed Abdel-Samie",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.6.0",
+    "yargs": "^17.2.1"
+  }
+}
